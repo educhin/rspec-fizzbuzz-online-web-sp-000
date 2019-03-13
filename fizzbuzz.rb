@@ -11,7 +11,7 @@ def fizzbuzz (num)
   # elsif num % 5 == 0
   #   "Buzz"
   # end
-  # else
-  #   nil
-  # end
+  else
+    nil
+  end
 end
